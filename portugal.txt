@@ -24,6 +24,7 @@ MIDFIELDERS:
 17. Otávio (Porto)
 18. Francisco Conceição (Porto)
 19. Ruben Neves (Al-Hilal)
+30. cristina Agulera (Miami FC)
 
 FORWARDS:
 20. Cristiano Ronaldo (Al-Nassr)
@@ -33,3 +34,4 @@ FORWARDS:
 24. Pedro Neto (Newcastle United)
 25. Rafael Guerrero (Benfica)
 26. Francisco Trincão (Barcelona)
+27. Cristibol Colon (FC Goa)
